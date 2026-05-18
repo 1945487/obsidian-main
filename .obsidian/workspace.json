@@ -11,10 +11,14 @@
             "id": "16c860848dae1e84",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "obsidian-vault/新測試1222.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "新分頁"
+              "title": "新測試1222"
             }
           }
         ]
@@ -178,5 +182,7 @@
     }
   },
   "active": "16c860848dae1e84",
-  "lastOpenFiles": []
+  "lastOpenFiles": [
+    "obsidian-vault/516619.md"
+  ]
 }

@@ -13,15 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "obsidian-vault/516619.md",
+                "file": "obsidian-vault/518335.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "516619"
+              "title": "518335"
+            }
+          },
+          {
+            "id": "2f7aa0cb637b23d7",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "新分頁"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -181,7 +192,7 @@
       "bases:建立新的 base": false
     }
   },
-  "active": "16c860848dae1e84",
+  "active": "2f7aa0cb637b23d7",
   "lastOpenFiles": [
     "obsidian-vault/518335.md",
     "obsidian-vault/516619.md"

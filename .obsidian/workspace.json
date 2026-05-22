@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "6d6e75fa0f462b9e",
+        "id": "2947d364f8b9f596",
         "type": "tabs",
         "children": [
           {
-            "id": "03121ae6c81aa90c",
+            "id": "b95b67241628395d",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "conflict-files-obsidian-git.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "conflict-files-obsidian-git"
+              "title": "新分頁"
             }
           }
         ]
@@ -181,7 +177,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "03121ae6c81aa90c",
+  "active": "b95b67241628395d",
   "lastOpenFiles": [
     "conflict-files-obsidian-git.md",
     "手機.md",

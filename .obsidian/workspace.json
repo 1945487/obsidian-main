@@ -13,15 +13,30 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "obsidian-vault/obsidian的儲存庫/歡迎.md",
+                "file": "obsidian-vault/518335.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "歡迎"
+              "title": "518335"
+            }
+          },
+          {
+            "id": "324f9527a76e4ef1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "未命名.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "未命名"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -181,10 +196,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "b95b67241628395d",
+  "active": "324f9527a76e4ef1",
   "lastOpenFiles": [
-    "obsidian-vault/516619.md",
+    "未命名.md",
     "obsidian-vault/518335.md",
+    "obsidian-vault/516619.md",
+    "obsidian-vault/obsidian的儲存庫/歡迎.md",
     "手機.md",
     "conflict-files-obsidian-git.md",
     "vault~HEAD",
@@ -195,7 +212,6 @@
     "vault/obsidian-vault/516619.md",
     "vault/obsidian-vault/obsidian的儲存庫/歡迎.md",
     "vault/obsidian-vault/518335.md",
-    "obsidian-vault/obsidian的儲存庫/歡迎.md",
     "obsidian-vault/obsidian的儲存庫",
     "obsidian-vault",
     "vault/obsidian的儲存庫"

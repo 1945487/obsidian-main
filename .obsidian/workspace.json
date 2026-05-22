@@ -11,10 +11,14 @@
             "id": "b95b67241628395d",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "obsidian-vault/obsidian的儲存庫/歡迎.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "新分頁"
+              "title": "歡迎"
             }
           }
         ]
@@ -179,8 +183,10 @@
   },
   "active": "b95b67241628395d",
   "lastOpenFiles": [
-    "conflict-files-obsidian-git.md",
+    "obsidian-vault/516619.md",
+    "obsidian-vault/518335.md",
     "手機.md",
+    "conflict-files-obsidian-git.md",
     "vault~HEAD",
     "vault/obsidian-vault",
     "vault",
@@ -189,8 +195,6 @@
     "vault/obsidian-vault/516619.md",
     "vault/obsidian-vault/obsidian的儲存庫/歡迎.md",
     "vault/obsidian-vault/518335.md",
-    "obsidian-vault/518335.md",
-    "obsidian-vault/516619.md",
     "obsidian-vault/obsidian的儲存庫/歡迎.md",
     "obsidian-vault/obsidian的儲存庫",
     "obsidian-vault",

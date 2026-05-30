@@ -1,3 +1,11 @@
 [
-  "obsidian-git"
+  "obsidian-git",
+  "dataview",
+  "templater-obsidian",
+  "obsidian-tasks-plugin",
+  "copilot",
+  "obsidian-kanban",
+  "obsidian-icon-folder",
+  "obsidian-style-settings",
+  "smart-connections"
 ]
